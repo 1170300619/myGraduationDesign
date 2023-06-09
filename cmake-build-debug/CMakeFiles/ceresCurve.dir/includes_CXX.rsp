@@ -1,0 +1,1 @@
+-I"C:/ceres/newInstall/eigen-3.3.9/include/eigen3" -I"C:/opencv/opencv/mingw-build/install/include" -IC:/SPC_Files/ceres/install/ceres/include -IC:/SPC_Files/ceres/install/glog/include -IC:/SPC_Files/ceres/install/gflags/Include

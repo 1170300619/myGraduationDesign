@@ -1,0 +1,3 @@
+"C:\Clion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\SPC.dir/objects.a
+D:\QT\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\SPC.dir/objects.a @CMakeFiles\SPC.dir\objects1.rsp
+D:\QT\Tools\mingw730_64\bin\g++.exe -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\SPC.dir/objects.a -Wl,--no-whole-archive -o SPC.exe -Wl,--out-implib,libSPC.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\SPC.dir\linklibs.rsp

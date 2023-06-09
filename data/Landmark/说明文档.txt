@@ -1,0 +1,2 @@
+这个文件夹下保存的是迭代过程中Landmark的变化，根据编号从初始Landmark，到优化后的新的Landmark
+同时还将landmark点保存为pp文件，方便meshlab直接导入查看landmark点的分布情况

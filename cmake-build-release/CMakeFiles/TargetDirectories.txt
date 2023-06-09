@@ -1,0 +1,3 @@
+C:/ClionProject/SPC/cmake-build-release/CMakeFiles/SPC.dir
+C:/ClionProject/SPC/cmake-build-release/CMakeFiles/edit_cache.dir
+C:/ClionProject/SPC/cmake-build-release/CMakeFiles/rebuild_cache.dir

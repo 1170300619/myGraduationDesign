@@ -1,0 +1,4 @@
+C:\SPC_Files\Bennu_Preliminary_Model\50x.ply
+PHONG
+0 0.9 0.1
+64.0
