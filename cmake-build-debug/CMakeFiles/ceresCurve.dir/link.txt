@@ -1,3 +1,0 @@
-"C:\Clion\CLion 2022.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\ceresCurve.dir/objects.a
-D:\QT\Tools\mingw730_64\bin\ar.exe qc CMakeFiles\ceresCurve.dir/objects.a @CMakeFiles\ceresCurve.dir\objects1.rsp
-D:\QT\Tools\mingw730_64\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\ceresCurve.dir/objects.a -Wl,--no-whole-archive -o ceresCurve.exe -Wl,--out-implib,libceresCurve.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ceresCurve.dir\linklibs.rsp
